@@ -14,7 +14,7 @@
 
 ###### 제목6
 
-### BlockQuote
+### 인용문구 BlockQuote
 
 > this is a first blockquote
 >
@@ -78,3 +78,11 @@ public static void main(string[] args){
     System.out.println("Hello java")
 }
 ```
+
+### 글자 강조
+
+**굵은 글씨**
+_이텔릭_
+_이텔릭_
+~~취소선~~
+<u>밑줄</u>
