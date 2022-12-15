@@ -107,4 +107,4 @@ _이텔릭_
 
 ### 원시 HTML(RAW HTML)
 
-<img scr='images/daum.jfif' alt='daum'>
+<img scr='images/cropImg_196x196_112483863111883824.jpeg' alt='daum'>
