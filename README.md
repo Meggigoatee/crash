@@ -102,4 +102,9 @@ _이텔릭_
 
 ![car](images/cropImg_196x196_112483863111883824.jpeg)
 
-[![daum](images/daum.jfif)](https://www.daum.net/)
+[![daum](images/daum.jfif)](https://www.daum.net/)  
+이미지 안에 링크걸기
+
+### 원시 HTML(RAW HTML)
+
+<img scr='images/daum.jfif' alt='daum'>
