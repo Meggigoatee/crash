@@ -100,4 +100,4 @@ _이텔릭_
 
 ![naver](https://img.danawa.com/prod_img/500000/451/307/img/18307451_1.jpg?shrink=130:130&_v=20221117104020)
 
-![car](../images/cropImg_196x196_112483863111883824.jpeg)
+![car](images/cropImg_196x196_112483863111883824.jpeg)
