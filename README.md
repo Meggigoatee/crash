@@ -98,4 +98,4 @@ _이텔릭_
 
 ### 이미지
 
-![naver](https://www.naver.com/)
+![naver](https://img.danawa.com/prod_img/500000/451/307/img/18307451_1.jpg?shrink=130:130&_v=20221117104020)
